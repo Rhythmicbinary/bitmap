@@ -1,0 +1,12 @@
+E:\work\C#\DrawBitmap\obj\Debug\DrawBitmap.csprojAssemblyReference.cache
+E:\work\C#\DrawBitmap\obj\Debug\DrawBitmap.Form1.resources
+E:\work\C#\DrawBitmap\obj\Debug\DrawBitmap.Properties.Resources.resources
+E:\work\C#\DrawBitmap\obj\Debug\DrawBitmap.csproj.GenerateResource.cache
+E:\work\C#\DrawBitmap\obj\Debug\DrawBitmap.csproj.CoreCompileInputs.cache
+E:\work\C#\DrawBitmap\bin\Debug\DrawBitmap.exe.config
+E:\work\C#\DrawBitmap\bin\Debug\DrawBitmap.exe
+E:\work\C#\DrawBitmap\bin\Debug\DrawBitmap.pdb
+E:\work\C#\DrawBitmap\bin\Debug\DustInTheWind.WindowsApi.Wingdi.dll
+E:\work\C#\DrawBitmap\obj\Debug\DrawBitmap.csproj.CopyComplete
+E:\work\C#\DrawBitmap\obj\Debug\DrawBitmap.exe
+E:\work\C#\DrawBitmap\obj\Debug\DrawBitmap.pdb
