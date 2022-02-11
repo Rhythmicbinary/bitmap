@@ -1,4 +1,8 @@
-﻿
+﻿/* 
+---------------------------------
+Developed by Rhythmicbinary  :"))
+---------------------------------
+*/
 namespace DrawBitmap
 {
     partial class Form1
